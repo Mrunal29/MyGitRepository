@@ -12,5 +12,5 @@ HelloGithelloGit("hello");
 		}
 
 	public static void myBigMethod(){
-		Sysout("has a method implementation");
+		System.out.println("has a method implementation");
 }
